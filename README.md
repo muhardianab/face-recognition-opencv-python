@@ -36,5 +36,7 @@
 
    `$ qtchooser -run-tool=designer -qt=5`
    
-   **Note: GUI App can't be used yet. It hasn't finish edited and linked with `faces.py`**
+
+
+**Note: GUI App can't be used yet. It hasn't finish edited and linked with `faces.py`**
 
