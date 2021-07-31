@@ -35,4 +35,6 @@
    run Qt Designer from terminal to edit the GUI.
 
    `$ qtchooser -run-tool=designer -qt=5`
+   
+   **Note: GUI App can't be used yet. It hasn't finish edited and linked with `faces.py`**
 
