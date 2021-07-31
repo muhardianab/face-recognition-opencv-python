@@ -2,11 +2,11 @@
 
 ## Installation
 
-1. Install OpenCV
+### Install OpenCV
    
    on Ubuntu can use this tutorial from [OpenCV Documentation](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)
    
-2. Install PyQt and PyQt-tools for GUI
+### Install PyQt and PyQt-tools for GUI
 
    Install from terminal
    ```
@@ -18,7 +18,7 @@
 
 ## How to use
 
-- Train with Manual Dataset
+### Train with Manual Dataset
 
    Train model with manual dataset on `faces-train.py`. Using Cascade Classifier which is provide and include from OpenCV4 or the latest OpenCV Version.
    
@@ -28,9 +28,10 @@
    
    Output of `faces-train.py` is `trainner.yml` file as model and `labels.pickle` as labelled dataset, so it can be used for `faces.py` to recognize.
    
-- Run face recognition file or `faces.py` on terminal
+### Use the face recognition file
+   Run `faces.py` file on terminal
 
-- Using GUI App
+### Using GUI App
 
    run Qt Designer from terminal to edit the GUI.
 
