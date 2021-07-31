@@ -26,7 +26,7 @@
    
    To change other detection, make sure to setting label while recognize on `faces.py`.
    
-   Output of `faces-train.py` is yml file as model and labels.pickle as labelled dataset, so it can be used for `faces.py` to recognize.
+   Output of `faces-train.py` is `trainner.yml` file as model and `labels.pickle` as labelled dataset, so it can be used for `faces.py` to recognize.
    
 - Run face recognition file or `faces.py` on terminal
 
